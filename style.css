@@ -1,0 +1,38 @@
+body{
+	background-color: #2d967c;
+	font-family: Amaranth;
+}
+h1{
+	text-align: center;
+	color: #FA8072;
+	background-color: white;
+	font-size: 50px;
+	font-family: Coming Soon
+}
+h2{
+	color: green;
+	font-size: 40px;
+}
+h3{
+	background-color: salmon ;
+	font-size: 25px;
+	font-family:Amatic SC ;
+}
+section{
+	background-color: #BBBBBB;
+	width: 60%;
+	margin:70px auto;
+	padding:30px;
+	text-align: center;
+}
+img{
+	width: 80%;
+	height: 150px;
+	object-fit: cover ;
+	/*Propiedades para centrar imagenes*/
+	display: block;
+	margin: 0px auto;
+
+}
+
+/*probando Git*/
